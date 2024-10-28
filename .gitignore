@@ -1,0 +1,10 @@
+*.PS
+*.PDF
+bin
+obj
+*.rar
+*.zip
+other
+packages
+*.xls
+*.xlsx
